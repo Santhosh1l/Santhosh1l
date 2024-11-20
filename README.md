@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Spring boot**
 
-- 👯 I’m looking to collaborate on [https://github.c](https://github.c)
-
 - 👨‍💻 All of my projects are available at [https://github.com/Santhosh1l?tab=repositories](https://github.com/Santhosh1l?tab=repositories)
 
 - 📫 How to reach me **e.g.santhosh2004@gmail.com**

@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Santhohs E G</h1>
+<h1 align="center">Hi 👋, I'm Santhosh E G</h1>
 <h3 align="center">IT Student(2025 Graduate)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santhosh1l&label=Profile%20views&color=0e75b6&style=flat" alt="santhosh1l" /> </p>

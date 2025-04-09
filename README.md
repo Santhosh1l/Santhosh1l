@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=santhosh1l" alt="santhosh1l" /></a> </p>
 
-- 🌱 I’m currently learning **Spring boot**
+
 
 - 👨‍💻 All of my projects are available at [https://github.com/Santhosh1l?tab=repositories](https://github.com/Santhosh1l?tab=repositories)
 
